@@ -2,7 +2,7 @@
 
 ### Kullanım
 
-'''
+```
 
 Usage:
     ./build.sh -r "REGISTRY/NAME" [OPTIONS]
@@ -27,7 +27,7 @@ Usage:
 
     -s|--start)
        start the container after building
-'''
+```
 ##
 Maalesef ödev eksiksiz yerine getirilememiştir. Eksiklerimi ve nasıl yapabileceğimi geri dönüş olarak belirtirseniz memnun olurum.
 ---
